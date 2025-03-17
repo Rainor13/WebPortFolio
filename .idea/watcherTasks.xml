@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectTasksOptions">
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="C:\Users\Emphr\Desktop\PortFolio\PortFolio\scss\style.scss:C:\Users\Emphr\Desktop\PortFolio\PortFolio\css\style.css" />
+      <option name="checkSyntaxErrors" value="false" />
+      <option name="description" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="scss" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="sass" />
+      <option name="output" value="C:\Users\Emphr\Desktop\PortFolio\PortFolio\css\style.css" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="true" />
+      <option name="program" value="$USER_HOME$/AppData/Roaming/npm/sass.cmd" />
+      <option name="runOnExternalChanges" value="true" />
+      <option name="scopeName" value="Current File" />
+      <option name="trackOnlyRoot" value="false" />
+      <option name="workingDir" value="$PROJECT_DIR$/PortFolio" />
+      <envs />
+    </TaskOptions>
+  </component>
+</project>

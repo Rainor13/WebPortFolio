@@ -1,0 +1,12 @@
+DEPRECATION WARNING [slash-div]: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($lineThickness, 2) or calc($lineThickness / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+361 │       top: calc(50% - #{$lineThickness / 2});
+    │                         ^^^^^^^^^^^^^^^^^^
+    ╵
+    scss\style.scss 361:25  root stylesheet
+
