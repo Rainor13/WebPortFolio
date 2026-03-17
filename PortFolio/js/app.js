@@ -38,7 +38,7 @@ anime({
   easing: 'linear',
   round: 1, // Redondear el valor del porcentaje
   // duration: 3000, // Duración de la animación
-  duration: 500, //La de trabajo
+  duration: 1000000, //La de trabajo
 
 
   update: function() {
